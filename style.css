@@ -2,8 +2,8 @@ body {
   font-family: "JetBrains Mono", serif;
   color: rgb(255, 255, 255);
   background-color: rgb(0, 0, 0);
-  overflow: scroll;
-  padding: 13px;
+  overflow-y: visible;
+  padding: 15px;
 }
 
 .AnimeGirl {
