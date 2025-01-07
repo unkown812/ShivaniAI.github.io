@@ -205,9 +205,3 @@ body {
     transform: translateY(10px);
   }
 }
-
-.chatinput:focus+.AnimeGirl {
-  opacity: 1;
-  transition: opacity 0.2s ease-in-out;
-  pointer-events: none;
-}
